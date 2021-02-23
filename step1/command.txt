@@ -1,0 +1,7 @@
+Located at "./CMAKE_TEST/step1_build/"
+
+
+>>cmake ../step1 
+...
+>>cmake --build .
+...

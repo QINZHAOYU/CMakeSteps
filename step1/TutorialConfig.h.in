@@ -1,0 +1,3 @@
+// 项目的配置选项和设置（头文件的版本号），用于生成TutorialConfig.h。
+#define Tutorial_VERSION_MAJOR @Tutorial_VERSION_MAJOR@
+#define Tutorial_VERSION_MINOR @Tutorial_VERSION_MINOR@
